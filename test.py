@@ -1,3 +1,4 @@
 import numpy as np
 
-print(np.arange(10))
+a = np.arange(10)
+print(a)
